@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning Artificial Intelligence related stuff, including but not limited to 
   * Artificial Intelligence, Mathematics, Computer Vision, Text Data and Management, Urban Computing
   * Machine Learning, Deep Learning, Multi-Agent System, Advanced Computer Vision, Time Series Analysis
-- 📫 How to reach me: 438410248 **at** qq.com
+- 📫 How to reach me: 438410248 @ WeChat
