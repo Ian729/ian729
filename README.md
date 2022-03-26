@@ -6,7 +6,7 @@
 <!-- https://github.com/estruyf/github-visitors-badge -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fian729&labelColor=%2337d67a&countColor=%232ccce4)
 - Some interesting projects I am looking at: ***[doo.life](https://daysmatter.herokuapp.com)*** and ***[RSSHub](https://rsssub.herokuapp.com)***
-- 🔭 I’m currently working on MSc in Artificial Intelligence @ **Nanyang Technological University**
+- 🔭 I’m currently working on [MSc in Artificial Intelligence](https://www.ntu.edu.sg/scse/admissions/programmes/graduate-programmes/master-of-science-in-artificial-intelligence-(msai)) @ [Nanyang Technological University](https://www.ntu.edu.sg/)
 - 🌱 I’m currently learning Artificial Intelligence related stuff, including but not limited to 
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
