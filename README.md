@@ -14,7 +14,7 @@
   * [Text Data and Management](https://github.com/Ian729/AI6122-Text-Data-Management-Analysis)
   * [Urban Computing](https://github.com/Ian729/AI6128-URBAN-COMPUTING)
   * [Machine Learning](https://github.com/Ian729/AI6102-MACHINE-LEARNING-METHODOLOGIES-AND-APPLICATIONS)
-  * [Deep Learning]()
+  * [Deep Learning](https://github.com/Ian729/)
   * [Multi-Agent System](https://github.com/Ian729/AI6125-MULTI-AGENT-SYSTEM)
   * [Advanced Computer Vision](https://github.com/Ian729/AI6126-ADVANCED-COMPUTER-VISION)
   * [Time Series Analysis](https://github.com/Ian729/AI6123-TIME-SERIES-ANALYSIS)
