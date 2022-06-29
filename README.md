@@ -5,7 +5,7 @@
 - 🇸🇬 Graduated: MSc in Artificial Intelligence @ [Nanyang Technological University](https://www.ntu.edu.sg/)
 - 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
 - 📫 How to reach me: 438410248 @ WeChat
-- Selected MSAI Courses:
+- 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
   * [Computer Vision](https://github.com/Ian729/AI6121-COMPUTER-VISION)
