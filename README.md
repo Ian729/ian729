@@ -16,3 +16,9 @@
   * [Multi-Agent System](https://github.com/Ian729/AI6125-MULTI-AGENT-SYSTEM)
   * [Advanced Computer Vision](https://github.com/Ian729/AI6126-ADVANCED-COMPUTER-VISION)
   * [Time Series Analysis](https://github.com/Ian729/AI6123-TIME-SERIES-ANALYSIS)
+- 📖 Prepare for interviews:
+  * [Leetcode(Chinese & English)](https://github.com/Ian729/leetcode)
+  * [CompSci(Chinese & English)](https://github.com/Ian729/interview)
+  * [Deep Learning(Chinese)](https://github.com/Ian729/DeepLearning-500-questions)
+  * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
+  * [System Design(English)](https://github.com/Ian729/system-design-resources)
