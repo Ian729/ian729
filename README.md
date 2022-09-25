@@ -1,10 +1,5 @@
 ### Hi there 👋
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fian729&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555&style=flat-square)
-- 👨‍💻 Checkout: [doo.life](https://daysmatter.herokuapp.com) and [RSSHub](https://rsssub.herokuapp.com)
-- 🇨🇦 Graduated with Distinction: B.Sc CompSci @ [University of Toronto](https://www.utoronto.ca/)
-- 🇸🇬 Graduated: MSc in Artificial Intelligence @ [Nanyang Technological University](https://www.ntu.edu.sg/)
-- 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
-- 📫 How to reach me: 438410248 @ WeChat
 - 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
@@ -23,3 +18,8 @@
   * [CompSci Books](https://github.com/Ian729/CS-Books)
   * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
   * [System Design(English)](https://github.com/Ian729/system-design-resources)
+- 👨‍💻 Checkout: [doo.life](https://daysmatter.herokuapp.com) and [RSSHub](https://rsssub.herokuapp.com)
+- 🇨🇦 Graduated with Distinction: B.Sc CompSci @ [University of Toronto](https://www.utoronto.ca/)
+- 🇸🇬 Graduated: MSc in Artificial Intelligence @ [Nanyang Technological University](https://www.ntu.edu.sg/)
+- 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
+- 📫 How to reach me: 438410248 @ WeChat
