@@ -20,5 +20,6 @@
   * [Leetcode(Chinese & English)](https://github.com/Ian729/leetcode)
   * [CompSci(Chinese & English)](https://github.com/Ian729/interview)
   * [Deep Learning(Chinese)](https://github.com/Ian729/DeepLearning-500-questions)
+  * [CompSci Books](https://github.com/Ian729/CS-Books)
   * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
   * [System Design(English)](https://github.com/Ian729/system-design-resources)
