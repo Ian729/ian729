@@ -23,3 +23,5 @@
 - 🇸🇬 Graduated: MSc in Artificial Intelligence @ [Nanyang Technological University](https://www.ntu.edu.sg/)
 - 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
 - 📫 How to reach me: 438410248 @ WeChat
+- ☕️ Buy 💕Lulu a cup of coffee if this repo helps
+- <img src="apay.jpg"  width=15% height=15%>
