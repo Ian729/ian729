@@ -17,7 +17,10 @@
   * [CompSci Books](https://github.com/Ian729/CS-Books)
   * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
   * [System Design(English)](https://github.com/Ian729/system-design-resources)
-- 👨‍💻 Checkout: [doo.life](https://daysmatter.herokuapp.com) and [RSSHub](https://rsssub.herokuapp.com)
+- 👨‍💻 Checkout:
+  - [doo.life](https://daysmatter.herokuapp.com), A web app for keeping your life on track.
+  - [RSSHub](https://rsssub.herokuapp.com), A RSS aggregator.
+  - [Silver Umbrella](https://ian729.github.io/silver-umbrella/), a personal blog for sharing my thoughts.
 - 🇨🇦 Graduated with Distinction: B.Sc CompSci @ [University of Toronto](https://www.utoronto.ca/)
 - 🇸🇬 Graduated: MSc in Artificial Intelligence @ [Nanyang Technological University](https://www.ntu.edu.sg/)
 - 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
