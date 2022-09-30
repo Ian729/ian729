@@ -1,4 +1,4 @@
-### Hi there 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fian729&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555&style=flat-square)
+# Hi there 👋  ![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fian729&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555&style=flat-square)
 - 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
