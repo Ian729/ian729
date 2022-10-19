@@ -17,6 +17,7 @@
   * [CompSci Books](https://github.com/Ian729/CS-Books)
   * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
   * [System Design(English)](https://github.com/Ian729/system-design-resources)
+  * [Free Programming Books(https://github.com/Ian729/free-programming-books)]
 - 👨‍💻 Checkout:
   - [doo.life](https://daysmatter.herokuapp.com), A web app for keeping your life on track.
   - [RSSHub](https://rsssub.herokuapp.com), A RSS aggregator.
