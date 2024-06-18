@@ -2,6 +2,7 @@
 - 👨‍💻 Checkout:
   - [Silver Umbrella](https://ian729.github.io/silver-umbrella/), a personal blog for sharing my thoughts.
   - [NewsArchive](https://github.com/Ian729/NewsArchive), auto-generated word cloud for [New York Times](https://www.nytimes.com/rss) Global, US and Asia News
+  - [GitHub Spider](https://github.com/Ian729/githubSpider), auto follow popular GitHub users and auto star popular GitHub repos
 - 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
@@ -21,7 +22,6 @@
   * [DevOps(English)](https://github.com/Ian729/90DaysOfDevOps)
   * [System Design(English)](https://github.com/Ian729/system-design-resources)
   * [Free Programming Books](https://github.com/Ian729/free-programming-books)
-- 🔑 GPG key hosted here: [GitHub](https://github.com/ian729.gpg)
 - 📫 How to reach me: 438410248 @ WeChat
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
