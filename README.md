@@ -3,6 +3,7 @@
   - [Silver Umbrella](https://ian729.github.io/silver-umbrella/), a personal blog for sharing my thoughts.
   - [NewsArchive](https://github.com/Ian729/NewsArchive), auto-generated word cloud for [New York Times](https://www.nytimes.com/rss) Global, US and Asia News
   - [GitHub Spider](https://github.com/Ian729/githubSpider), auto follow popular GitHub users and auto star popular GitHub repos
+  - [gitAnalysis](https://github.com/Ian729/gitAnalysis), a Python tool for analyzing Git commits and visualizing it in a contribution graph
 - 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
