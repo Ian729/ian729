@@ -6,6 +6,7 @@
   - [GitHub Spider](https://github.com/Ian729/githubSpider), auto follow popular GitHub users and auto star popular GitHub repos
   - [gitAnalysis](https://github.com/Ian729/gitAnalysis), a Python tool for analyzing Git commits and visualizing it in a contribution graph
   - [Chrome History Analysis](https://github.com/Ian729/chrome-history-analysis), a Python tool for analyzing Chrome Browsing History
+  - [git-squash](https://github.com/ian729/git-squash), a git plugin that enables squashing commits based on branch_name/num_commits/commit_SHA
 - 📖 Selected MSAI Courses:
   * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
   * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
