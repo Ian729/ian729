@@ -7,7 +7,7 @@
   - [gitAnalysis](https://github.com/Ian729/gitAnalysis), a Python tool for analyzing Git commits and visualizing it in a contribution graph
   - [Chrome History Analysis](https://github.com/Ian729/chrome-history-analysis), a Python tool for analyzing Chrome Browsing History
   - [git-squash](https://github.com/ian729/git-squash), a git plugin that enables squashing commits based on branch_name/num_commits/commit_SHA
-- 📖 Selected MSAI Courses are no longer available due to [complaint here](https://github.com/github/dmca/blob/master/2025/10/2025-10-28-original-work.md))
+- 📖 Selected MSAI Courses are no longer available due to [copyright claim here](https://github.com/github/dmca/blob/master/2025/10/2025-10-28-original-work.md))
 - 📖 Prepare for interviews:
   * [Leetcode(Chinese & English)](https://github.com/Ian729/leetcode)
   * [CompSci(Chinese & English)](https://github.com/Ian729/interview)
