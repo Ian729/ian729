@@ -7,17 +7,7 @@
   - [gitAnalysis](https://github.com/Ian729/gitAnalysis), a Python tool for analyzing Git commits and visualizing it in a contribution graph
   - [Chrome History Analysis](https://github.com/Ian729/chrome-history-analysis), a Python tool for analyzing Chrome Browsing History
   - [git-squash](https://github.com/ian729/git-squash), a git plugin that enables squashing commits based on branch_name/num_commits/commit_SHA
-- 📖 Selected MSAI Courses:
-  * [Artificial Intelligence](https://github.com/Ian729/AI6101-INTRODUCTION-TO-AI-AI-ETHICS)
-  * [Mathematics](https://github.com/Ian729/AI6104-MATHEMATICS-FOR-ARTIFICIAL-INTELLIGENCE)
-  * [Computer Vision](https://github.com/Ian729/AI6121-COMPUTER-VISION)
-  * [Text Data and Management](https://github.com/Ian729/AI6122-Text-Data-Management-Analysis)
-  * [Urban Computing](https://github.com/Ian729/AI6128-URBAN-COMPUTING)
-  * [Machine Learning](https://github.com/Ian729/AI6102-MACHINE-LEARNING-METHODOLOGIES-AND-APPLICATIONS)
-  * [Deep Learning](https://github.com/Ian729/AI6103-DEEP-LEARNING-APPLICATIONS)
-  * [Multi-Agent System](https://github.com/Ian729/AI6125-MULTI-AGENT-SYSTEM)
-  * [Advanced Computer Vision](https://github.com/Ian729/AI6126-ADVANCED-COMPUTER-VISION)
-  * [Time Series Analysis](https://github.com/Ian729/AI6123-TIME-SERIES-ANALYSIS)
+- 📖 Selected MSAI Courses are no longer available due to [complaint here](https://github.com/github/dmca/blob/master/2025/10/2025-10-28-original-work.md))
 - 📖 Prepare for interviews:
   * [Leetcode(Chinese & English)](https://github.com/Ian729/leetcode)
   * [CompSci(Chinese & English)](https://github.com/Ian729/interview)
